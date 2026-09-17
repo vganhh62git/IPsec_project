@@ -40,8 +40,7 @@ Protected networks:
 
 ```text
 1_Report/
-2_Demo/
-3_Configuration/
-4_PCAP/
-5_Evidence/
-6_Presentation/
+2_Configuration/
+3_PCAP/
+4_Evidence/
+
